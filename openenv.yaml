@@ -1,0 +1,6 @@
+spec_version: 1
+name: lead_scoring
+type: space
+runtime: fastapi
+app: lead_scoring.server.app:app
+port: 8000
